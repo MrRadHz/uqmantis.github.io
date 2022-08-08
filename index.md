@@ -1,5 +1,5 @@
-# University of Queensland - Team Mantis
-## 2022
+# Team Mantis 2022
+# University of Queensland
 
 
 ## The Boat - Prawny
