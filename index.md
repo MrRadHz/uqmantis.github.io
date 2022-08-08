@@ -1,10 +1,9 @@
-# Test heading 1
+# University of Queensland - Team Mantis
+## 2022
 
-## Section Heading 2
+
+## The Boat - Prawny
+
+## Meet the Team:
 
 frontpage.md
-
-
-layout: page
-title: UQ Mantis
-permalink: https://github.com/MrRadHz/uqmantis.github.io/blob/7dba1e128f7c178d436497e9077e370b2be507de/frontpage.md
