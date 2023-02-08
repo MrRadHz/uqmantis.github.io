@@ -6,4 +6,4 @@
 
 ## Meet the Team:
 
-[home page](frontpage.md)
+<!-- [home page](frontpage.md) -->
